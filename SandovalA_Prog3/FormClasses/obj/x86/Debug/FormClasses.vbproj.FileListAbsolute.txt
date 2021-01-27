@@ -1,0 +1,78 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\YangQ_Prog2.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\YangQ_Prog2.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\YangQ_Prog2.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\HouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\HouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\bin\Debug\HouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.FormClassHouse.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.FormClassList.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\FormClasses.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\FormClasses.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\FormClasses.vbproj.CopyComplete
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog2GUI\obj\x86\Debug\YangQ_Prog2.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassHouse.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassList.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CopyComplete
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.pdb
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.dll
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.pdb
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\FormClasses.xml
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\YangQ_Prog3\FormClasses\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassHouse.resources
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassList.resources
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.Resources.resources
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.GenerateResource.cache
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CopyComplete
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.dll
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.xml
+D:\Windows Programming\YangQ_Prog3\FormClasses\obj\x86\Debug\FormClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.dll
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.xml
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassHouse.resources
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassList.resources
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.Resources.resources
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.GenerateResource.cache
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CopyComplete
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.dll
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.xml
+D:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.dll
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\FormClasses.xml
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.dll
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\FormClasses\bin\Debug\PVIHouseClasses.xml
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbprojResolveAssemblyReference.cache
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassHouse.resources
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.FormClassList.resources
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\UWPCS3340.Resources.resources
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.GenerateResource.Cache
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.vbproj.CoreCompileInputs.cache
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.dll
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.xml
+F:\Windows Programming\SandovalA_Prog3\FormClasses\obj\x86\Debug\FormClasses.pdb

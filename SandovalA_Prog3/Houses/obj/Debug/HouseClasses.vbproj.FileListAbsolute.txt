@@ -1,0 +1,78 @@
+E:\YangQ_Prog2\Houses\bin\Debug\HouseClasses.dll
+E:\YangQ_Prog2\Houses\bin\Debug\HouseClasses.pdb
+E:\YangQ_Prog2\Houses\bin\Debug\HouseClasses.xml
+E:\YangQ_Prog2\Houses\obj\Debug\ResolveAssemblyReference.cache
+E:\YangQ_Prog2\Houses\obj\Debug\UWPCS3340.Resources.resources
+E:\YangQ_Prog2\Houses\obj\Debug\GenerateResource.read.1.tlog
+E:\YangQ_Prog2\Houses\obj\Debug\GenerateResource.write.1.tlog
+E:\YangQ_Prog2\Houses\obj\Debug\HouseClasses.dll
+E:\YangQ_Prog2\Houses\obj\Debug\HouseClasses.xml
+E:\YangQ_Prog2\Houses\obj\Debug\HouseClasses.pdb
+I:\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.dll
+I:\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.pdb
+I:\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.xml
+I:\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\UWPCS3340.Resources.resources
+I:\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+I:\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.dll
+I:\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.xml
+I:\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.pdb
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.dll
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.pdb
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\bin\Debug\HouseClasses.xml
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\UWPCS3340.Resources.resources
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.cache
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.dll
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.xml
+J:\courses\CS334\ProgDir\YangQ_Prog2\Houses\obj\Debug\HouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\bin\Debug\HouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\bin\Debug\HouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\bin\Debug\HouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\UWPCS3340.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1TA\YangQ_Prog2\Houses\obj\Debug\HouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\UWPCS3340.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\YangQ_Prog3\Houses\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\UWPCS3340.Resources.resources
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.cache
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.dll
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.xml
+D:\Windows Programming\YangQ_Prog3\Houses\obj\Debug\PVIHouseClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.dll
+F:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.xml
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\UWPCS3340.Resources.resources
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.Cache
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.dll
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.xml
+F:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\Houses\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\UWPCS3340.Resources.resources
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbproj.GenerateResource.cache
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\HouseClasses.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.dll
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.xml
+D:\Windows Programming\SandovalA_Prog3\Houses\obj\Debug\PVIHouseClasses.pdb

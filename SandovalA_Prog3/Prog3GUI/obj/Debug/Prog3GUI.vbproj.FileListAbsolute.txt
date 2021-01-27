@@ -1,0 +1,79 @@
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.dll
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.pdb
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Form1.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassBranch.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CopyComplete
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+K:\Courses\CSSE\yangq\cs3340\1CourseMaterials\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.pdb
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\Prog3GUI.xml
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.dll
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.pdb
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\FormClasses.xml
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Form1.resources
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassBranch.resources
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Resources.resources
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.GenerateResource.cache
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CopyComplete
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+D:\Windows Programming\YangQ_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.pdb
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.xml
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.dll
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.dll
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.xml
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.pdb
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.xml
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbprojResolveAssemblyReference.cache
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassBranch.resources
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Resources.resources
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.GenerateResource.cache
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CopyComplete
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb
+D:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassMDI.resources
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe.config
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.exe
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.pdb
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\Prog3GUI.xml
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.dll
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.dll
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\FormClasses.xml
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.pdb
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\bin\Debug\PVIHouseClasses.xml
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbprojResolveAssemblyReference.cache
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassMDI.resources
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.FormClassBranch.resources
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.Resources.resources
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.GenerateResource.Cache
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.vbproj.CoreCompileInputs.cache
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.exe
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.xml
+F:\Windows Programming\SandovalA_Prog3\Prog3GUI\obj\Debug\Prog3GUI.pdb
