@@ -1,0 +1,13 @@
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\bin\Debug\UserName_Test1.exe.config
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\bin\Debug\UserName_Test1.exe
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\bin\Debug\UserName_Test1.pdb
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\bin\Debug\UserName_Test1.xml
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.FormClassButton.resources
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.FormClassJump.resources
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.vbproj.GenerateResource.cache
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.vbproj.CoreCompileInputs.cache
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.exe
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.xml
+K:\Courses\CSSE\yangq\cs3340\1Dropbox\UserName_Test1\CS3340_Test1\obj\x86\Debug\UserName_Test1.pdb
